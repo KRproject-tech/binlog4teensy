@@ -14,7 +14,7 @@
 # BinLog4teensy
 Sample code of the __Fast__ binary data logging for __Teensy 4.1__.
 
-Binary file saved in micro SD card is read by MATLAB code in "./load binary/"
+Binary file saved on micro SD card is read by MATLAB code in "./load binary/" or Python code in "./load binary_Py/".
 
 
 ## Format
