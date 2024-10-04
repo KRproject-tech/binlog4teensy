@@ -9,12 +9,13 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
 <p>
 
 # BinLog4teensy
 Sample code of the __Fast__ binary data logging for __Teensy 4.1__.
 
-Binary file saved on micro SD card is read by MATLAB code in "./load binary/" or Python code in "./load binary_Py/".
+Binary file saved on a micro SD card is read by __MATLAB code__ in "./load binary/" or __Python code__ in "./load binary_Py/".
 
 
 ## Format
